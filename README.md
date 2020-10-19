@@ -1,3 +1,7 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jae-jae/Userscript-Plus)
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jae-jae/Userscript-Plus)
+
 ![userscript+.gif](https://cdn.rawgit.com/jae-jae/_resources/master/img/userscript+.gif)
 # Userscript+
 
